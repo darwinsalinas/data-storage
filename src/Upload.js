@@ -46,7 +46,7 @@ const UploadStyled = styled.div`
 export default function Upload() {
   return (
     <UploadStyled>
-      <img src={logo} alt="logo" width="125px" />
+      <img src={logo} alt="logo" width="125" />
       <div>
         <div>
           <img src={idocument} alt="icono documento" />
